@@ -1,0 +1,102 @@
+[
+    {
+        "id": "8d5de538-a33e-4d57-ac99-1f01cbfacec6",
+        "org_id": "008b658d-77d3-41ee-98e0-e08da27bb04a",
+        "type": "Квартплата",
+        "account": "101",
+        "period": "01.07.2024",
+        "amount": 30000,
+        "services": [
+            {
+                "name": "Содержание общего имущества",
+                "amount": 5000
+            },
+            {
+                "name": "Холодная вода",
+                "amount": 15000
+            },
+            {
+                "name": "Электричество",
+                "amount": 10000
+            }
+        ]
+    },
+    {
+        "id": "f7e97164-64d2-4a1a-bfdd-4309ce29ea1e",
+        "org_id": "008b658d-77d3-41ee-98e0-e08da27bb04a",
+        "type": "Капремонт",
+        "account": "101",
+        "period": "01.07.2024",
+        "amount": 10000,
+        "services": [
+            {
+                "name": "Капитальный ремонт",
+                "amount": 10000
+            }
+        ]
+    },
+    {
+        "id": "f558d84f-167b-4ed9-a584-688f41c18ef9",
+        "org_id": "fda12a9c-7fe4-4b3a-8b14-c80788e881cf",
+        "type": "Квартплата",
+        "account": "222",
+        "period": "01.07.2024",
+        "amount": 25000,
+        "services": [
+            {
+                "name": "Содержание общего имущества",
+                "amount": 5000
+            },
+            {
+                "name": "Горячая вода",
+                "amount": 20000
+            },
+            {
+                "name": "Электричество",
+                "amount": 10000
+            }
+        ]
+    },
+    {
+        "id": "11f2d56e-6870-4dbb-a41d-3e228f79cb32",
+        "org_id": "fda12a9c-7fe4-4b3a-8b14-c80788e881cf",
+        "type": "Капремонт",
+        "account": "222",
+        "period": "01.07.2024",
+        "amount": 15000,
+        "services": [
+            {
+                "name": "Капитальный ремонт",
+                "amount": 15000
+            }
+        ]
+    },
+    {
+        "id": "18bed480-d6c2-4b49-82d0-3a27ed37fe22",
+        "org_id": "427fb693-c310-4eaa-b6a2-4279b1cef1e7",
+        "type": "ХВС",
+        "account": "1000",
+        "period": "01.07.2024",
+        "amount": 11000,
+        "services": [
+            {
+                "name": "Холодная вода",
+                "amount": 11000
+            }
+        ]
+    },
+    {
+        "id": "8bf0d5fb-3acf-450f-8303-a65cf59f535d",
+        "org_id": "052dce60-c63d-43d9-bcc6-76ba3aba05c7",
+        "type": "ТБО",
+        "account": "2000",
+        "period": "01.07.2024",
+        "amount": 15000,
+        "services": [
+            {
+                "name": "Вывоз мусора",
+                "amount": 15000
+            }
+        ]
+    }
+]

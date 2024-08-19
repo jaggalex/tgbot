@@ -1,0 +1,41 @@
+[
+    {
+        "id": 284695016,
+        "addresses": [
+            {
+                "address_id": "a0f55784-e88e-403b-9f01-baf0d5dcc073",
+                "data": [
+                    {
+                        "resident_id": "18b278b7-bda3-4fa6-b9ec-46f0108fc565",
+                        "org_id": "008b658d-77d3-41ee-98e0-e08da27bb04a",
+                        "account": "101"
+                    },
+                    {
+                        "resident_id": "b10dc26c-8307-4e84-b298-01192f6a9883",
+                        "org_id": "427fb693-c310-4eaa-b6a2-4279b1cef1e7",
+                        "account": "1000"
+                    }
+                ]
+            },
+            {
+                "address_id": "a6e1fc73-1374-46be-aaa9-3d30608862f9",
+                "data": [
+                    {
+                        "resident_id": "154e3cb1-b0bf-4845-85f3-274808a766f0",
+                        "org_id": "fda12a9c-7fe4-4b3a-8b14-c80788e881cf",
+                        "account": "222"
+                    },
+                    {
+                        "resident_id": "68fbe154-99e1-4e03-9fa1-c1a0469a6c2f",
+                        "org_id": "052dce60-c63d-43d9-bcc6-76ba3aba05c7",
+                        "account": "2000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 284695017,
+        "addresses": []
+    }
+]
